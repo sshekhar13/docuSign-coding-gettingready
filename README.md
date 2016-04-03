@@ -2,7 +2,6 @@
 This submission is the solution to the problem described below.
 In order to Run the program and view the results you have 2 options - 
 1. Run the PajamaPartyDriver.java as Java Application and enter your input in the console and view the output in the console too.
-2. 
 2. Run the GettingReadyUI.java as Java Applet and a window will open where you can provide your input. Once you click Process, the optput will be displayed.
 
 
